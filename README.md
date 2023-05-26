@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on The Home Finder(a real estate web application for Africa<br>👯 I’m looking to collaborate on Handeyi(this is a web application that has similar features to uber but is friendly for developing countries it is currently in research phase)<br>🤝 I’m looking for help with creating the Handeyi api<br>🌱 I’m currently learning Vue.js, Nginx and MongoDB<br>💬 Ask me about frontend frameworks<br>⚡ Fun fact my laziness makes me thing of smart ways to finish my tasks fast
+🔭 I’m currently working on The Home Finder(a real estate web application for Africa<br>👯 I’m looking to collaborate on Handeyi(this is a web application that has similar features to uber but is friendly for developing countries it is currently in research phase)<br>🤝 I’m looking for help with creating the Handeyi api<br>🌱 I’m currently learning Vue.js, Nginx and MongoDB<br>💬 Ask me about frontend frameworks<br>⚡ Fun fact my laziness makes me think of smart ways to finish my tasks fast
 
 
 ## 🌐 Socials:
