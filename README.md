@@ -1,6 +1,21 @@
-# 💫 About Me:
-🔭 I’m currently working on The Home Finder(a real estate web application for Africa<br>👯 I’m looking to collaborate on Handeyi(this is a web application that has similar features to uber but is friendly for developing countries it is currently in research phase)<br>🤝 I’m looking for help with creating the Handeyi api<br>🌱 I’m currently learning Vue.js, Nginx and MongoDB<br>💬 Ask me about frontend frameworks<br>⚡ Fun fact my laziness makes me think of smart ways to finish my tasks fast
+# Hi there, I'm Robert Mudzonga 👋
 
+I am a Software Engineer, IT & Digital Marketing Manager, and Computer Science student. I build full-stack web and mobile applications with a focus on scalable architecture, seamless UX, and efficient workflows.
+
+---
+
+### 💫 About Me
+
+- 🔭 **Currently Working On:** 
+  - **Fanverse**: A multi-sport fan engagement app featuring real-time chats, score predictions, leaderboards, and live sports news aggregation.
+  - Custom web-based **CRM & Document Management Systems** with automated client portals and integrations.
+- 🎓 **Education & Training:**
+  - BSc in Computer Science at **University of the People**
+  - Software Engineering Alum at **ALX Africa**
+- 💬 **Ask Me About:** React, React Native, Node.js, Express, Python, PostgreSQL, MongoDB, API design, and automation workflows.
+- ⚡ **Fun Fact:** My impatience with repetitive tasks drives me to automate almost everything I do!
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/robert-mudzonga-06b1ba21a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/robertmudzonga) 
